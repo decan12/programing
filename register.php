@@ -57,10 +57,4 @@ if (isset($_POST['register'])) {
     </body>
 </html>
 
-
-
-<?php
-
-echo "hello word";
-
-?>
+echo "hello word"; 
