@@ -56,3 +56,11 @@ if (isset($_POST['register'])) {
         </div>
     </body>
 </html>
+
+
+
+<?php
+
+echo "hello word";
+
+?>
